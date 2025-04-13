@@ -91,3 +91,114 @@ text-align: left;
     width: 474.03px;
 
 }
+.section-title{
+    margin: 24px 0px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.section-description{
+    margin: 12px 0px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.visions-container{
+    display: flex;
+    gap: 24px;
+    padding: 32px 0px;
+
+}
+.vision-1{
+    box-sizing: border-box;
+    border-radius: 16px;
+    
+    background: rgba(84, 144, 245, 0.2);
+}
+.vision-2{
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+}
+
+.vision-3{
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+}
+.vision-title{
+      color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+
+
+}
+.vision-description{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.vision-button-1{
+    padding: 11px 20px 11px 20px;
+    margin: 24px 0px;
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+ border-radius: 8px;
+ border: none;
+background: rgb(84, 144, 245);
+
+}
+.vision-button-2{
+    padding: 11px 20px 11px 20px;
+    margin: 24px 0px;
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+ border-radius: 8px;
+ border: none;
+background:rgb(9, 161, 92);
+
+}
+.vision-button-3{
+    padding: 11px 20px 11px 20px;
+    margin: 24px 0px;
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+ border-radius: 8px;
+ border: none;
+background:rgb(255, 194, 57);
+
+}
