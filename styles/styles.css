@@ -23,15 +23,15 @@ nav{
 .nav-button{
     padding: 15px 30px 15px 30px;
     box-sizing: border-box;
-border: 1px solid rgb(0, 106, 80);
-border-radius: 8px;
-color: rgb(0, 106, 80);
-font-family: Fira Sans;
-font-size: 18px;
-font-weight: 600;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: left;
+    border: 1px solid rgb(0, 106, 80);
+    border-radius: 8px;
+    color: rgb(0, 106, 80);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .nav-button:hover{
     background-color: chartreuse;
@@ -43,42 +43,40 @@ text-align: left;
     justify-content: center;
     align-items: center;
     gap: 64;
-padding: 80px 100px 80px 100px;
-border-radius: 24px;
-
-background: rgb(198, 228, 214);
-
-
+    padding: 80px 100px 80px 100px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
 }
 .benner-content{
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 56px;
-font-weight: 700;
-line-height: 67px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .benner-title{
     color: rgba(14, 14, 14, 0.5);
-font-family: Fira Sans;
-font-size: 24px;
-font-weight: 500;
-line-height: 29px;
-letter-spacing: 0%;
-text-align: left;
-gap: 16px;
-padding: 0px;
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    gap: 16px;
+    padding: 0px;
+
 }
 .benner-description{
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 56px;
-font-weight: 700;
-line-height: 67px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .button-primary{
@@ -86,12 +84,12 @@ text-align: left;
     border-radius: 8px;
     background: rgb(0, 106, 80);
     color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 18px;
-font-weight: 600;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .button-primary:hover{
@@ -100,28 +98,26 @@ text-align: left;
 }
 .benner-pic{
     width: 474.03px;
-    
-
 }
 .section-title{
     margin: 24px 0px;
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .section-description{
     margin: 12px 0px;
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .visions-container{
     display: flex;
@@ -137,52 +133,48 @@ text-align: left;
 }
 .vision-2{
     box-sizing: border-box;
-border-radius: 16px;
+    border-radius: 16px;
 
 background: rgb(198, 228, 214);
 }
 
 .vision-3{
     box-sizing: border-box;
-border-radius: 16px;
-
-background: rgb(247, 235, 207);
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
 }
 .vision-title{
-      color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 20px;
-font-weight: 700;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
-
-
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .vision-description{
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .vision-button-1{
     padding: 11px 20px 11px 20px;
     margin: 24px 0px;
     color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 600;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: left;
- border-radius: 8px;
- border: none;
-background: rgb(84, 144, 245);
-
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 8px;
+    border: none;
+    background: rgb(84, 144, 245);
 }
 .vision-button-1:hover{
     background-color: chartreuse;
@@ -193,16 +185,15 @@ background: rgb(84, 144, 245);
     padding: 11px 20px 11px 20px;
     margin: 24px 0px;
     color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 600;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: left;
- border-radius: 8px;
- border: none;
-background:rgb(9, 161, 92);
-
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 8px;
+    border: none;
+    background:rgb(9, 161, 92);
 }
 .vision-button-2:hover{
     background-color: chartreuse;
@@ -213,15 +204,15 @@ background:rgb(9, 161, 92);
     padding: 11px 20px 11px 20px;
     margin: 24px 0px;
     color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 600;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: left;
- border-radius: 8px;
- border: none;
-background:rgb(255, 194, 57);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 8px;
+    border: none;
+    background:rgb(255, 194, 57);
 
 }
 .vision-button-3:hover{
@@ -234,44 +225,43 @@ background:rgb(255, 194, 57);
     padding: 48px 24px 48px 24px;
     box-sizing: border-box;
     
-border: 1px solid rgba(14, 14, 14, 0.15);
-border-radius: 16px;
-
-background: rgb(255, 255, 255);
-background-image: url(../B11A1--assignment-1/assets/quote-bg.png);
-background-repeat: no-repeat;
-background-position: 24px 40px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    background-image: url(../B11A1--assignment-1/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 24px 40px;
 }
 
 .introduction{
     margin: 12px 0px;
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .header-title{
     margin: 4px 0px;
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 20px;
-font-weight: 600;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .pera{
     margin: 4px 0px;
     color: rgba(14, 14, 14, 0.6);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .news-card{
     display: flex;
@@ -281,23 +271,23 @@ text-align: left;
 }
 .news-title{
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .news-description{
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: left;
-padding: 0px 0px 32px;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 0px 0px 32px;
 
 }
 .img{
@@ -307,12 +297,12 @@ padding: 0px 0px 32px;
 .news-card-title{
     margin: 12px 0px;
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 32px;
-font-weight: 700;
-line-height: 38px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .card{
     margin: 12px 0px;
@@ -321,16 +311,15 @@ text-align: left;
     padding: 13px 26px 13px 26px;
     gap: 48px;
     border-radius: 8px;
-
-background: rgb(0, 106, 80);
-color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 18px;
-font-weight: 600;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: left;
-border: none;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
 }
 .news-button:hover{
     background-color: chartreuse;
@@ -343,24 +332,24 @@ border: none;
 .donate{
     margin: 24px 0px;
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
 
 }
 .donate-description{
     justify-content: center;
     margin: 0px 24px;
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 
 .donate-amount1{
@@ -372,12 +361,12 @@ text-align: center;
     
     background: rgb(255, 255, 255);
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .donate-amount1:hover{
     background-color: chartreuse;
@@ -393,12 +382,12 @@ text-align: left;
     
     background: rgb(198, 228, 214);
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: left;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
 
 }
 .donate-amount2:hover{
@@ -419,17 +408,17 @@ text-align: left;
     margin: 60px 0px;
     text-align: center;
     box-sizing: border-box;
-border-bottom: 1px solid rgba(14, 14, 14, 0.15);
-background: rgb(255, 255, 255);
-margin: 12px 0px;
-color: rgba(14, 14, 14, 0.3);
-font-family: Fira Sans;
-font-size: 20px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
-border: none;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    margin: 12px 0px;
+    color: rgba(14, 14, 14, 0.3);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    border: none;
    
 }
 .btn-primary:hover{
@@ -446,16 +435,15 @@ border: none;
     gap: 48px;
     border-radius: 8px;
     margin: 32px 0px;
-
-background: rgb(0, 106, 80);
-color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 18px;
-font-weight: 600;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: left;
-border: none;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
 }
 .donate-button:hover{
     background-color: chartreuse;
@@ -465,23 +453,23 @@ border: none;
 .footer-head{
     margin: 16px 0px;
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 .footer-description{
     
     margin: 16px 0px;
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 footer form button{
     padding: 18px 40px 18px 40px;
@@ -490,32 +478,30 @@ footer form button{
 }
 .footer-form{
     width: 600px;
-height: 55px;
-gap: 24;
-border-radius: 8px 0px 0px 8px;
-border: none;
-
-background: rgb(255, 255, 255);
-color: rgba(14, 14, 14, 0.3);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: left;
+    height: 55px;
+    gap: 24;
+    border-radius: 8px 0px 0px 8px;
+    border: none;
+    background: rgb(255, 255, 255);
+    color: rgba(14, 14, 14, 0.3);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .footer-btn{
     padding: 17px 34px 17px 34px;
     border-radius: 0px 8px 8px 0px;
-
-background: rgb(0, 106, 80);
-color: rgb(255, 255, 255);
-font-family: Fira Sans;
-font-size: 18px;
-font-weight: 600;
-line-height: 22px;
-letter-spacing: 0%;
-text-align: left;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
 }
 .footer-btn:hover{
     background-color: chartreuse;
@@ -528,17 +514,16 @@ text-align: left;
 .last-para{
     margin: 24px 0px;
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
-line-height: 19px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 .footer{
     padding: 80px 100px 80px 100px;
     margin: 80px 0px;
     border-radius: 24px;
-
-background: rgb(198, 228, 214);
+    background: rgb(198, 228, 214);
 }
