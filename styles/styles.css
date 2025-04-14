@@ -2,7 +2,7 @@
 
 body{
     background-color: rgba(241, 241, 243, 1);
-    /* padding: 31px 160px 31px 160px; */
+    padding: 31px 160px 31px 160px;
 }
 nav{
     display: flex;
@@ -32,6 +32,10 @@ font-weight: 600;
 line-height: 22px;
 letter-spacing: 0%;
 text-align: left;
+}
+.nav-button:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
 }
 
 .benner{
@@ -90,8 +94,13 @@ letter-spacing: 0%;
 text-align: left;
 
 }
+.button-primary:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+}
 .benner-pic{
     width: 474.03px;
+    
 
 }
 .section-title{
@@ -175,6 +184,11 @@ text-align: left;
 background: rgb(84, 144, 245);
 
 }
+.vision-button-1:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+
+}
 .vision-button-2{
     padding: 11px 20px 11px 20px;
     margin: 24px 0px;
@@ -190,6 +204,11 @@ text-align: left;
 background:rgb(9, 161, 92);
 
 }
+.vision-button-2:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+
+}
 .vision-button-3{
     padding: 11px 20px 11px 20px;
     margin: 24px 0px;
@@ -203,6 +222,11 @@ text-align: left;
  border-radius: 8px;
  border: none;
 background:rgb(255, 194, 57);
+
+}
+.vision-button-3:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
 
 }
 .section{
@@ -308,6 +332,14 @@ letter-spacing: 0%;
 text-align: left;
 border: none;
 }
+.news-button:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+
+}
+.section-donate{
+    margin: 80px 0px;
+}
 .donate{
     margin: 24px 0px;
     color: rgb(14, 14, 14);
@@ -347,6 +379,11 @@ line-height: 48px;
 letter-spacing: 0%;
 text-align: left;
 }
+.donate-amount1:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+
+}
 .donate-amount2{
     padding: 40px;
     margin: 0px 24px;
@@ -364,6 +401,10 @@ letter-spacing: 0%;
 text-align: left;
 
 }
+.donate-amount2:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+}
 .donate-amount{
     display: flex;
     gap: 24;
@@ -377,7 +418,6 @@ text-align: left;
     gap: 24;
     margin: 60px 0px;
     text-align: center;
-    border: none;
     box-sizing: border-box;
 border-bottom: 1px solid rgba(14, 14, 14, 0.15);
 background: rgb(255, 255, 255);
@@ -389,8 +429,12 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0%;
 text-align: center;
-
+border: none;
    
+}
+.btn-primary:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
 }
 .text-center{
     display: flex;
@@ -412,4 +456,89 @@ line-height: 22px;
 letter-spacing: 0%;
 text-align: left;
 border: none;
+}
+.donate-button:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+
+}
+.footer-head{
+    margin: 16px 0px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+.footer-description{
+    
+    margin: 16px 0px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+footer form button{
+    padding: 18px 40px 18px 40px;
+    margin: 0px 0px;  
+     
+}
+.footer-form{
+    width: 600px;
+height: 55px;
+gap: 24;
+border-radius: 8px 0px 0px 8px;
+border: none;
+
+background: rgb(255, 255, 255);
+color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer-btn{
+    padding: 17px 34px 17px 34px;
+    border-radius: 0px 8px 8px 0px;
+
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer-btn:hover{
+    background-color: chartreuse;
+    box-shadow: 5px 5px 10px;
+}
+.footer-main-form{
+    margin: 0px 100px;
+    
+}
+.last-para{
+    margin: 24px 0px;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+}
+.footer{
+    padding: 80px 100px 80px 100px;
+    margin: 80px 0px;
+    border-radius: 24px;
+
+background: rgb(198, 228, 214);
 }
